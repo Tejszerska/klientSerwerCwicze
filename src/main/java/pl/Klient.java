@@ -8,10 +8,6 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class Klient {
-//    // @TODO jak na działanie wpłynie wsadzenie tych zmiennych do pol?
-//    private static PrintWriter out;
-//    private static BufferedReader in;
-//    private static Scanner scanner;
     private static final String SERVER_ADDRESS = "localhost";
     private static final int SERVER_PORT = 55555;
 
